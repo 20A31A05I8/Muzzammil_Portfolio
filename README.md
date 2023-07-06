@@ -1,10 +1,10 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### Hello😀!  I am Kommireddy praveen👋
-[![Linkedin Badge](https://img.shields.io/badge/-kommireddypraveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kommireddy-praveen-b247a3225)](https://www.linkedin.com/in/kommireddy-praveen-b247a3225)
-[![Gmail Badge](https://img.shields.io/badge/-kommireddypraveen363@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kommireddypraveen363@gmail.com)](mailto:kommireddypraveen363@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Muzzammil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaik-muzzammil-mohiddin-jeelani-7b246120a/)](https://www.linkedin.com/in/shaik-muzzammil-mohiddin-jeelani-7b246120a/)
+[![Gmail Badge](https://img.shields.io/badge/-muzzammil.1043@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muzzammil.1043@gmail.com)](mailto:muzzammil.1043@gmail.com) 
 
 
 
@@ -13,7 +13,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://20a31a05h5.github.io/praveen-portfolio/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/kommireddy-praveen-b247a3225)
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/shaik-muzzammil-mohiddin-jeelani-7b246120a/)
 
 
 
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### Things I love:
+### Expertise in :
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend  ✍️
 
